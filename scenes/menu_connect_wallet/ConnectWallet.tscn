@@ -1,4 +1,4 @@
-[gd_scene load_steps=12 format=3 uid="uid://coh8jlcij4ays"]
+[gd_scene load_steps=12 format=3 uid="uid://dgdkhwb11fti5"]
 
 [ext_resource type="Script" path="res://scenes/menu_connect_wallet/connect_wallet.gd" id="1_5lb8n"]
 [ext_resource type="Texture2D" uid="uid://dpfqok8tuy4r7" path="res://art/tile_0084.png" id="2_gtmov"]
